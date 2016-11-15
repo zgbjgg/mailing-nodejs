@@ -1,0 +1,13 @@
+{
+  "name": "mailing-nodejs",
+  "description": "Sample of sending email with two attached files from command line",
+  "dependencies": {
+      "nodemailer": "*"
+  },
+  "engines": {
+    "node": ">=5.0.0"
+  },
+  "version": "0.1.1",
+  "scripts": {},
+  "devDependencies": {}
+}
